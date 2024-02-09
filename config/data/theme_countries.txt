@@ -1,0 +1,240 @@
+japan
+indonesia
+india
+china
+philippines
+brazil
+south korea
+mexico
+egypt
+united states
+bangladesh
+thailand
+russia
+argentina
+nigeria
+turkey
+pakistan
+vietnam
+iran
+congo kinshasa
+united kingdom
+france
+peru
+taiwan
+angola
+malaysia
+south africa
+colombia
+tanzania
+sudan
+hong kong
+saudi arabia
+chile
+spain
+iraq
+singapore
+cameroon
+kenya
+canada
+myanmar
+cote divoire
+australia
+germany
+morocco
+afghanistan
+somalia
+jordan
+algeria
+ghana
+united arab emirates
+bolivia
+greece
+ethiopia
+kuwait
+hungary
+ukraine
+yemen
+guatemala
+italy
+north korea
+ecuador
+portugal
+venezuela
+madagascar
+dominican republic
+uzbekistan
+zambia
+burkina faso
+sri lanka
+azerbaijan
+zimbabwe
+cuba
+cambodia
+mali
+belarus
+austria
+syria
+kazakhstan
+puerto rico
+malawi
+romania
+poland
+congo brazzaville
+belgium
+uruguay
+uganda
+honduras
+guinea
+sweden
+bulgaria
+costa rica
+panama
+netherlands
+senegal
+oman
+israel
+mongolia
+serbia
+denmark
+new zealand
+czechia
+libya
+finland
+qatar
+mozambique
+ireland
+rwanda
+georgia
+chad
+burundi
+kyrgyzstan
+armenia
+mauritania
+norway
+tunisia
+nicaragua
+niger
+liberia
+haiti
+nepal
+eritrea
+sierra leone
+laos
+latvia
+central african republic
+tajikistan
+togo
+turkmenistan
+croatia
+gabon
+benin
+lithuania
+moldova
+papua new guinea
+macedonia
+djibouti
+gaza strip
+jamaica
+el salvador
+paraguay
+south sudan
+lesotho
+guineabissau
+malta
+slovakia
+bahrain
+estonia
+lebanon
+albania
+bosnia and herzegovina
+the gambia
+cyprus
+namibia
+reunion
+slovenia
+the bahamas
+martinique
+botswana
+suriname
+timorleste
+guyana
+gibraltar
+equatorial guinea
+fiji
+new caledonia
+kosovo
+maldives
+mauritius
+montenegro
+curacao
+switzerland
+iceland
+luxembourg
+french polynesia
+cabo verde
+barbados
+comoros
+bhutan
+swaziland
+solomon islands
+trinidad and tobago
+saint lucia
+french guiana
+sao tome and principe
+vanuatu
+brunei
+monaco
+samoa
+kiribati
+aruba
+jersey
+mayotte
+marshall islands
+isle of man
+cayman islands
+seychelles
+saint vincent and the grenadines
+andorra
+antigua and barbuda
+tonga
+greenland
+belize
+dominica
+saint kitts and nevis
+faroe islands
+british virgin islands
+american samoa
+turks and caicos islands
+saint martin
+federated states of micronesia
+tuvalu
+liechtenstein
+cook islands
+grenada
+san marino
+sint maarten
+northern mariana islands
+falkland islands islas malvinas
+bermuda
+vatican city
+niue
+guadeloupe
+guam
+saint helena ascension and tristan da cunha
+montserrat
+nauru
+saint barthelemy
+palau
+saint pierre and miquelon
+anguilla
+wallis and futuna
+norfolk island
+svalbard
+pitcairn islands
+christmas island
+south georgia and south sandwich islands
+macau
+west bank
+bonaire sint eustatius and saba
+us virgin islands

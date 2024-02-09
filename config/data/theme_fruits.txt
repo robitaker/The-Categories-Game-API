@@ -1,0 +1,261 @@
+apple
+apricot
+avocado
+banana
+bell pepper
+bilberry
+blackberry
+blackcurrant
+blood orange
+blueberry
+boysenberry
+breadfruit
+canary melon
+cantaloupe
+cherimoya
+cherry
+chili pepper
+clementine
+cloudberry
+coconut
+cranberry
+cucumber
+currant
+damson
+date
+dragonfruit
+durian
+eggplant
+elderberry
+feijoa
+fig
+goji berry
+gooseberry
+grape
+grapefruit
+guava
+honeydew
+huckleberry
+jackfruit
+jambul
+jujube
+kiwi fruit
+kumquat
+lemon
+lime
+loquat
+lychee
+mandarine
+mango
+mulberry
+nectarine
+nut
+olive
+orange
+papaya
+passionfruit
+peach
+pear
+persimmon
+physalis
+pineapple
+plum
+pomegranate
+pomelo
+purple mangosteen
+quince
+raisin
+rambutan
+raspberry
+redcurrant
+rock melon
+salal berry
+satsuma
+star fruit
+strawberry
+tamarillo
+tangerine
+tomato
+ugli fruit
+watermelon
+maca
+alperce
+abacate
+banana
+pimentao
+mirtilo
+amora
+groselha preta
+laranja sanguinea
+boysenberry
+fruta-pao
+melao canario
+melao
+cherimoia
+cereja
+pimenta chili
+clementina
+amora branca
+coco
+cranberry
+pepino
+groselha
+ameixa damasco
+tamara
+pitaya
+durian
+beringela
+sabugueiro
+feijoa
+figo
+goji berry
+uva
+toranja
+goiaba
+melao-de-inverno
+bergamota
+jaca
+jambo
+jujuba
+kiwi
+quivi
+limao
+nespera
+lichia
+mandarina
+manga
+nectarina
+noz
+azeitona
+laranja
+papaia
+maracuja
+pessego
+pera
+diospiro
+physalis
+abacaxi
+ameixa
+roma
+pomelo
+mangostao roxo
+marmelo
+uva passa
+rambutan
+framboesa
+groselha vermelha
+salal berry
+satsuma
+carambola
+morango
+tomate
+ugli fruit
+melancia
+manzana
+albaricoque
+aguacate
+platano
+pimiento
+arandano
+mora
+grosella negra
+naranja sanguina
+arandano azul
+fruta del pan
+melon canario
+melon
+cherimoya
+cereza
+pimiento chili
+moras blancas
+arandano rojo
+grosella
+ciruela damasco
+datil
+pitahaya
+berenjena
+sauco
+higo
+bayas de goji
+guayaba
+melon verde
+nispero
+jambul
+jujube
+kumquat
+limon
+lima
+nispero japones
+lichi
+mango
+nuez
+aceituna
+naranja
+papaya
+maracuya
+durazno
+caqui
+ciruela
+granada
+mangostan morado
+membrillo
+pasa
+frambuesa
+grosella roja
+baya de salal
+fresa
+sandia
+pimento
+laranja vermelha
+bagas de goji
+mela
+albicocca
+avocado
+peperone
+mirtilli
+more
+ribes nero
+arancia rossa
+mirtillo
+frutto del pane
+melone giallo
+melone
+ciliegia
+peperoncino
+mora bianca
+cocco
+cetriolo
+ribes
+susina damasco
+dattero
+melanzana
+sambuco
+fico
+pompelmo
+guava
+melone invernale
+nespola
+giaca
+giuggiola
+limone
+lime
+nespola giapponese
+litchi
+mandarino
+nettarina
+noce
+oliva
+arancia
+pesca
+cachi
+ananas
+prugna
+melograno
+mangostano viola
+cotogno
+lampone
+ribes rosso
+ribes di salal
+fragola
+pomodoro
+anguria

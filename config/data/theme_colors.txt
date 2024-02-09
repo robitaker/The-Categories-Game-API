@@ -1,0 +1,349 @@
+vermelho
+azul
+verde
+amarelo
+roxo
+laranja
+rosa
+marrom
+preto
+branco
+cinza
+turquesa
+violeta
+ciano
+indigo
+magenta
+coral
+dourado
+prata
+bronze
+vermelho escuro
+azul escuro
+verde escuro
+amarelo escuro
+roxo escuro
+laranja escuro
+rosa escuro
+marrom claro
+preto azulado
+branco azulado
+cinza azulado
+verde agua
+verde oliva
+vermelho carmesim
+amarelo limao
+verde limao
+verde musgo
+verde esmeralda
+vermelho rubi
+azul celeste
+verde mar
+vermelho vinho
+amarelo ouro
+azul cobalto
+azul marinho
+verde floresta
+verde menta
+amarelo canario
+azul safira
+azul turquesa
+marrom chocolate
+rosa choque
+azul ultramarino
+amarelo mostarda
+vermelho coral
+azul indigo
+vermelho carmim
+verde abacate
+laranja queimado
+cinza ardosia
+verde jade
+rosa pastel
+azul eletrico
+vermelho terra
+azul ardosia
+laranja cenoura
+verde palido
+rosa quente
+cinza perola
+verde lima
+verde neon
+azul royal
+marrom sienna
+marrom castanho
+rosa coral
+verde grama
+cinza ardosia claro
+azul aco
+azul petroleo
+verde oliva escuro
+azul cobalto claro
+marrom caramelo
+marrom chocolate escuro
+rosa palido
+verde limao neon
+amarelo neon
+azul neon
+verde neon claro
+roxo neon
+vermelho neon
+laranja neon
+cinza neon
+verde limao fluorescente
+azul fluorescente
+laranja fluorescente
+rosa fluorescente
+amarelo fluorescente
+roxo fluorescente
+verde fluorescente
+vermelho fluorescente
+red
+blue
+green
+yellow
+purple
+orange
+pink
+brown
+black
+white
+gray
+turquoise
+violet
+cyan
+gold
+silver
+dark red
+dark blue
+dark green
+dark yellow
+dark purple
+dark orange
+dark pink
+light brown
+bluish black
+bluish white
+bluish gray
+aquamarine
+olive green
+crimson
+lemon yellow
+lime green
+moss green
+emerald green
+ruby red
+sky blue
+sea green
+burgundy
+golden yellow
+cobalt blue
+navy blue
+forest green
+mint green
+canary yellow
+sapphire blue
+turquoise blue
+chocolate brown
+shocking pink
+ultramarine blue
+mustard yellow
+coral red
+indigo blue
+carmine red
+avocado green
+burnt orange
+slate gray
+jade green
+pastel pink
+electric blue
+terra cotta
+slate blue
+carrot orange
+pale green
+hot pink
+pearl gray
+neon green
+royal blue
+sienna brown
+chestnut brown
+coral pink
+grass green
+light slate gray
+steel blue
+petroleum blue
+dark olive green
+light cobalt blue
+caramel brown
+dark chocolate brown
+pale pink
+neon lime green
+neon yellow
+neon blue
+light neon green
+neon purple
+neon red
+neon orange
+neon gray
+fluorescent lime green
+fluorescent blue
+fluorescent orange
+fluorescent pink
+fluorescent yellow
+fluorescent purple
+fluorescent green
+fluorescent red
+rojo
+amarillo
+morado
+naranja
+marron
+negro
+blanco
+gris
+cian
+oro
+plata
+bronce
+rojo oscuro
+azul oscuro
+verde oscuro
+amarillo oscuro
+morado oscuro
+naranja oscuro
+rosa oscuro
+marron claro
+negro azulado
+blanco azulado
+gris azulado
+carmesi
+amarillo limon
+verde limon
+musgo
+esmeralda
+rubi
+celeste
+vino
+azul marino
+verde bosque
+menta
+amarillo canario
+azul zafiro
+chocolate
+rosa chicle
+azul ultramar
+mostaza
+carmin
+aguacate
+naranja quemado
+pizarra
+jade
+pastel
+azul electrico
+tierra
+pizarra azul
+naranja zanahoria
+rosa caliente
+perla
+lima
+neon
+sienna
+casta�o
+pasto
+gris pizarra claro
+azul acero
+petroleo
+verde oliva oscuro
+caramelo
+chocolate oscuro
+verde lima neon
+amarillo neon
+morado neon
+rojo neon
+naranja neon
+gris neon
+verde lima fluorescente
+naranja fluorescente
+amarillo fluorescente
+morado fluorescente
+rojo fluorescente
+rosso
+blu
+giallo
+viola
+arancione
+marrone
+nero
+bianco
+grigio
+turchese
+indaco
+corallo
+argento
+bronzo
+rosso scuro
+blu scuro
+verde scuro
+giallo scuro
+viola scuro
+arancione scuro
+rosa scuro
+marrone chiaro
+nero bluastro
+bianco bluastro
+grigio bluastro
+acquamarina
+cremisi
+giallo limone
+verde limone
+muschio
+smeraldo
+rubino
+verde mare
+blu cobalto
+blu navy
+verde bosco
+giallo canarino
+zaffiro
+cioccolato
+rosa shocking
+blu oltremare
+senape
+carmine
+avocado
+arancione bruciato
+ardesia
+giada
+pastello
+blu elettrico
+terra
+ardesia blu
+carota
+verde pallido
+rosa caldo
+lime
+blu reale
+castagna
+erba
+grigio ardesia chiaro
+blu acciaio
+petrolio
+verde oliva scuro
+blu cobalto chiaro
+caramello
+cioccolato scuro
+rosa pallido
+verde lime neon
+giallo neon
+blu neon
+verde neon chiaro
+viola neon
+rosso neon
+arancione neon
+grigio neon
+verde lime fluorescente
+blu fluorescente
+arancione fluorescente
+giallo fluorescente
+viola fluorescente
+rosso fluorescente
